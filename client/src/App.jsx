@@ -95,7 +95,7 @@ export default function App() {
   return (
     <main className="app">
       <header className="header">
-        <h1>Todo app version 11</h1>
+        <h1>Todo app version 12</h1>
         <p className="subtitle">React + Express — add, complete, and delete tasks</p>
       </header>
 
